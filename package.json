@@ -1,0 +1,16 @@
+{
+  "name": "matching",
+  "version": "1.0.0",
+  "description": "Find list items by example",
+  "keywords": [ "where" ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgnass/matching.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Felix Gnass <fgnass@gmail.com>",
+  "license": "MIT"
+}
